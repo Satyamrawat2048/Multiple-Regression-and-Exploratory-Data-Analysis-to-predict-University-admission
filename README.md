@@ -1,6 +1,6 @@
 # Multiple-Regression-to-predict-University-admission
 
-Aim : To Build a prediction model using multiple linear regression to predict the likelihood of getting admission and evaluate the accuracy of the model.
+Aim : To Build a prediction model using multiple linear regression to predict the likelihood of getting admission and evaluate the accuracy of the model. Also do Exploratory Data Analysis
 
 Steps :
 
