@@ -1,6 +1,8 @@
 # Multiple-Regression-to-predict-University-admission
 
-steps :
+Aim : To Build a prediction model using multiple linear regression to predict the likelihood of getting admission and evaluate the accuracy of the model.
+
+Steps :
 
 1 Analyse Dataset
 
