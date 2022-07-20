@@ -15,3 +15,7 @@ Steps :
 5 Model Prediction 
 
 6 Model Evaluation 
+
+7 Determine Highly Correlated Features
+
+8 Perform RFE(Recursive Feature Elimination)
