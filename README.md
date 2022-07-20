@@ -1,4 +1,4 @@
-# Multiple-Regression-to-predict-University-admission
+# Multiple-Regression-and-EDA-to-predict-University-admission
 
 Aim : To Build a prediction model using multiple linear regression to predict the likelihood of getting admission and evaluate the accuracy of the model. Also do Exploratory Data Analysis
 
